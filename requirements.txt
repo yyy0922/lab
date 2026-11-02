@@ -1,0 +1,5 @@
+numpy
+scipy
+scikit-learn
+torch>=2.1
+psutil
